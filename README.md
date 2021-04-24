@@ -6,7 +6,7 @@ Trabajo en Aerolíneas Argentinas hace más de 10 años.
 <br>
 Actualmente estoy estudiando desarrollo FrontEnd en https://github.com/Ada-IT.
 <br>
-Busco expandir mis conocimientos y aprender y generar una lógica de pensamiento aplicable no solo al ámbito profesional, sino también a mi dpia a día.
+Busco expandir mis conocimientos y aprender y generar una lógica de pensamiento aplicable no solo al ámbito profesional, sino también a mi día a día.
 
 ---
 
