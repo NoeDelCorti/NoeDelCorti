@@ -28,4 +28,4 @@ Busco expandir mis conocimientos y aprender y generar una lógica de pensamiento
 
 ## Contacto:
 - Linkedin (https://www.linkedin.com/in/noelia-del-corti-9316191a8/)
-- E-mail (delcortinoeliagmail.com)
+- E-mail (mailto:delcortinoelia@gmail.com)
