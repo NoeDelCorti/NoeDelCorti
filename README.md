@@ -27,5 +27,5 @@ Busco expandir mis conocimientos y aprender y generar una lógica de pensamiento
 - Inglés intermedio.
 
 ## Contacto:
-- Linkedin (https://www.linkedin.com/in/noelia-del-corti-9316191a8/)
-- E-mail (:delcortinoelia@gmail.com)
+- Linkedin https://www.linkedin.com/in/noelia-del-corti-9316191a8/
+- E-mail delcortinoelia@gmail.com
